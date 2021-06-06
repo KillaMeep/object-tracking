@@ -1,2 +1,1 @@
-just a simple object tracker I made in python. Requires a few libs. They are opencv-python, opencv-contrib-python, and argparse. Feel free to use this however you would like, although if you do use this, please give me credit. The controls are as follows: s pauses, mouse selects, and after you selected you can hit q to start tracking or enter twice to select another thing to track. There has been a bug with the fps saying 400,000 before you select something, but im working on a fix.
-run the install-packages.bat file to grab all required packages and upgrade pip.
+shitty object tracking program I made. do whatever with it lol.
